@@ -9,3 +9,5 @@
  <img align="center" alt="Pedro-Java" height="60" width="60" 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
+
+![snake gif](https://github.com/p-henriqued/p-henriqued/blob/output/github-contribution-grid-snake.svg)
